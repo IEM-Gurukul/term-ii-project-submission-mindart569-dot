@@ -21,4 +21,4 @@ public enum Category {
             System.out.println((i + 1) + ". " + categories[i]);
         }
     }
-}s
+}
